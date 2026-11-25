@@ -1,0 +1,6 @@
+{
+  "name": "TrustScan AI",
+  "description": "Digital Document & Invoice Fraud Detection System — Cybersecurity, AI and Document Forensics platform by Nova Squad for AVISHKAR'26.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
